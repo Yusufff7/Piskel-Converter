@@ -4,7 +4,7 @@ This tool converts `.piskel` files into a string-based representation.
 
 ## Usage
 
-Use the **config** section to:
+Use the **config** section in `piskelParser.py` to:
 
 - Specify the path to your `.piskel` file.
 - Define `piskelMap`, which maps hex color values to single-character codes.
